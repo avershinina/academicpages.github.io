@@ -1,4 +1,3 @@
-
 ---
 title: 'Creating consensus fasta using iupac codes'
 date: 2016-08-14
