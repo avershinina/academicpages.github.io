@@ -54,7 +54,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &bio_alice
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+  
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -170,10 +175,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  CV:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  meetings:
+  talks:
     output: true
     permalink: /:collection/:path/
 
