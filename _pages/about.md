@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What's going on?"
+title: "News"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Upcoming events
+------
+* 23-27 June 2019, Riverside CA [North American Paleontological Convention](https://napc2019.ucr.edu/) - invited talk
+* 14-15 Jan 2019, Minneapolis, MN [Neotoma All Hands Meeting](https://www.neotomadb.org/) - invited talk
+
 Metadata
 ------
-[Map of places I've given a talk](https://avershinina.github.io/talkmap.html)
-
+[Map of places I've given a talk](https://avershinina.github.io/talkmap.html) *under construction*
