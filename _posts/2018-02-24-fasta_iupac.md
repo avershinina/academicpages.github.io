@@ -1,8 +1,13 @@
+
 ---
-layout: post
-title: Creating consensus fasta using iupac codes
-tags: vcf fasta
+title: 'Creating consensus fasta using iupac codes'
+date: 2016-08-14
+permalink: /posts/2016/08/iupac-fasta/
+tags:
+  - vcf
+  - fasta
 ---
+
 Fasta files can be generated from vcf calls. There are two ways of doing that: (1) concatenate snips together (this can be done using either variants only or calling monomarphic (hom ref) variants as well and concatenating them too); (2) use reference genome as a backbone and incorporate variants into the reference. To incorporate information about heterozygotes, IUPAC substitution codes can be used. Here is a collection of scripts available:
 
 #### Using fasta reference

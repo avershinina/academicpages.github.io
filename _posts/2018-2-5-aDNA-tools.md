@@ -1,7 +1,9 @@
 ---
-layout: post
-title: Tools to deal with aDNA damage
-tags: vcf-aDNA
+title: 'Tools to deal with aDNA damage'
+date: 2016-08-14
+permalink: /posts/2016/08/damage/
+tags:
+  - aDNA
 ---
 
 * mapDamage --rescale option changes quality scores on bam files
