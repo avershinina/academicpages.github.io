@@ -71,4 +71,5 @@ Service
 * strawberry DNA extraction at Lakeview Middle School, Watsonville
 * grad student mentorship
 * undergraduate advising
+* STEM poster presentation for the Workshops for Engineering and Science Transfers
 * WiSE Naturalist walks *in progress*
