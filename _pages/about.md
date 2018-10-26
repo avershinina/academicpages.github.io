@@ -2,6 +2,10 @@
 permalink: /
 title: "News"
 excerpt: "About me"
+header:
+  overlay_image: /images/bones.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Pleistocene bones in Klondike"
 author_profile: true
 redirect_from: 
   - /about/
