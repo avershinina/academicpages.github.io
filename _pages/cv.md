@@ -70,6 +70,7 @@ Teaching
   
 Service
 ======
-* outreach at local schools
+* strawberry DNA extraction at Lakeview Middle School, Watsonville
 * grad student mentorship
 * undergraduate advising
+* WiSE Naturalist walks *in progress*
