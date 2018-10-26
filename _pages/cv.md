@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here to see the recent CV](../files/VershininaAlisa_CVoct18.pdf)
+[Click *here* to see the most recent CV](../files/VershininaAlisa_CVoct18.pdf)
 
 
 Current Position
