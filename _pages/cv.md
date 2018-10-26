@@ -34,11 +34,11 @@ Education
 
 2010 – 2012: M. Sc. in Biology, St. Petersburg State University, Russia.
 
-Faculty of Biology, Department of Entomology.
+Department of Biology, Department of Entomology.
 
 2006 – 2010: B. Sc. in Biology, St. Petersburg State University, Russia.
 
-Faculty of Biology, Department of Entomology.
+Department of Biology, Department of Entomology.
 
 Skills
 ======
