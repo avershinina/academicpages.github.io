@@ -69,7 +69,9 @@ Teaching
 Service
 ======
 * strawberry DNA extraction at Lakeview Middle School, Watsonville
-* grad student mentorship
+* grad student mentorship (EEB cohort of 2018)
 * undergraduate advising
-* STEM poster presentation for the Workshops for Engineering and Science Transfers
+* STEM poster presentations for the Workshops for Engineering and Science Transfers
+* Lecture on paleogenetics for the Beringia Interpretive Center, Whitehorse, Canada (together with Sabrina Shirazi)
+* Lecture on ancient DNA for interns at the Holzman archaeological site (Summer 2018), Shaw creek, Alaska
 * WiSE Naturalist walks *in progress*
