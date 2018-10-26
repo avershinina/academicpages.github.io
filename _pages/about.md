@@ -20,6 +20,12 @@ Recently published
 
 * Maschenko et al., 2017. The Zhenya Mammoth (Mammuthus primigenius (Blum.)): Taphonomy, geology, age, morphology and ancient DNA of a 48,000 year old frozen mummy from western Taimyr, Russia - [pdf](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S1040618216302105/1-s2.0-S1040618216302105-main.pdf)
 
+Useful links
+------
+- Popgen teaching simulations [http://www.phytools.org/PopGen/](http://www.phytools.org/PopGen/)
+- Collection of popgen methods and tools [http://methodspopgen.com/](http://methodspopgen.com/)
+- This will change your life: [How to Customize (and Colorize) Your Bash Prompt](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/)
+
 Metadata
 ------
 [Map of places I've given a talk](https://avershinina.github.io/talkmap.html) *under construction*
