@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-[The most recent CV](files/VershininaAlisa_CVoct18.pdf)
-======
+[Click here for the recent CV](../files/VershininaAlisa_CVoct18.pdf)
+-----
 
 Current Position
 ======
