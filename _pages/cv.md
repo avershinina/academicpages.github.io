@@ -25,9 +25,7 @@ Previous Positions
 
 Working on shallow-scale phylogenetics and evolution in butterflies and caddisflies.
 
-Project: “Dynamics of chromosome number evolution in Lepidoptera and
-
-Trichoptera”.
+Project: “Dynamics of chromosome number evolution in Lepidoptera and Trichoptera”.
 
 Education
 ======
