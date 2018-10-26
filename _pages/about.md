@@ -16,9 +16,9 @@ Upcoming events
 
 Recently published
 ------
-* *in press* Kalbfleisch, Rice, et al., 2018 EquCab3, an Updated Reference Genome for the Domestic Horse https://www.biorxiv.org/content/early/2018/04/25/306928
+* *in press* Kalbfleisch, Rice, et al., 2018 EquCab3, an Updated Reference Genome for the Domestic Horse - [pdf](https://www.biorxiv.org/content/biorxiv/early/2018/04/25/306928.full.pdf)
 
-* Maschenko et al., 2017. The Zhenya Mammoth (Mammuthus primigenius (Blum.)): Taphonomy, geology, age, morphology and ancient DNA of a 48,000 year old frozen mummy from western Taimyr, Russia https://doi.org/10.1016/j.quaint.2017.06.055
+* Maschenko et al., 2017. The Zhenya Mammoth (Mammuthus primigenius (Blum.)): Taphonomy, geology, age, morphology and ancient DNA of a 48,000 year old frozen mummy from western Taimyr, Russia - [pdf](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S1040618216302105/1-s2.0-S1040618216302105-main.pdf)
 
 Metadata
 ------
