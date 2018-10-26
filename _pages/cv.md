@@ -29,8 +29,20 @@ Project: “Dynamics of chromosome number evolution in Lepidoptera and
 
 Trichoptera”.
 
+Education
+======
+
+2010 – 2012: M. Sc. in Biology, St. Petersburg State University, Russia.
+
+Faculty of Biology, Department of Entomology.
+
+2006 – 2010: B. Sc. in Biology, St. Petersburg State University, Russia.
+
+Faculty of Biology, Department of Entomology.
+
 Skills
 ======
+
 * ancient DNA 
 * working at a sterile lab
 * next-gen wet lab

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-spring-arctic
 venue: "UCSC EEB"
-date: 2018
+date: 2018-06-01
 location: "Santa Cruz, California"
 ---
 
