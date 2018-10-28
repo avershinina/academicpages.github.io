@@ -2,7 +2,7 @@
 title: "Evolutionary mechanisms of runaway chromosome number change in Agrodiaetus butterflies"
 collection: publications
 permalink: /publication/2017-08-15-runaway
-excerpt: 'published Master's thesis' 
+excerpt: 'published Masters thesis' 
 date: 2017-08-15
 venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-017-08525-6'
