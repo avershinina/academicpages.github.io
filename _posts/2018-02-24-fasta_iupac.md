@@ -1,7 +1,7 @@
 ---
 title: 'Creating consensus fasta using iupac codes'
-date: 2016-08-14
-permalink: /posts/2016/08/iupac-fasta/
+date: 2018-10-27
+permalink: /posts/2018/10/iupac-fasta/
 tags:
   - vcf
   - fasta
@@ -15,6 +15,7 @@ Fasta files can be generated from vcf calls. There are two ways of doing that: (
 bcftools consensus --iupac-codes --sample --mark
 ```
 * [vcf2fasta.py](https://github.com/stsmall/Wb_Genome_L3/blob/79b2f4a3b9f564830f8e80a048d5f1b2ea1846a7/vcf2fasta.py) - phased only
+* For GATK fans: [FastaAlternateReferenceMaker](https://software.broadinstitute.org/gatk/documentation/tooldocs/3.8-0/org_broadinstitute_gatk_tools_walkers_fasta_FastaAlternateReferenceMaker.php).
 
 #### No reference
 * [seqTools vcf2fasta](https://github.com/jsharbrough/seqTools)
