@@ -33,3 +33,9 @@ Useful links
 Metadata
 ------
 [Map of places I've given a talk](https://avershinina.github.io/talkmap.html) *under construction*
+
+Misc.
+------
+- I read [books](https://www.goodreads.com/bio_alice).
+- I hike [hikes](https://www.komoot.com/user/575873982494).
+- I paint [things](tbd). 
