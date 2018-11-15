@@ -36,6 +36,8 @@ Metadata
 
 Misc.
 ------
-- I read [books](https://www.goodreads.com/bio_alice).
-- I hike [hikes](https://www.komoot.com/user/575873982494).
-- I paint [things](tbd). 
+- [books](https://www.goodreads.com/bio_alice).
+- [hikes](https://www.komoot.com/user/575873982494).
+- [music](https://bandcamp.com/avershinina/).
+- [art](tbd). 
+
