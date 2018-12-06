@@ -18,7 +18,7 @@ If you are using Linux, you know what to do.
 
 # BASH 101
 
-Go to this website: https://linuxjourney.com/
+Go to this website: [https://linuxjourney.com/](https://linuxjourney.com/).
 
 Click on ["Command line"](https://linuxjourney.com/lesson/the-shell) and complete the tutorial, answering all questions and completing excersises.
 Do all excersises on your computer in the command line.
@@ -32,7 +32,7 @@ Complete the tutorial, answering all questions and completing excersises.
 Do all excersises on your computer in the command line.
 
 # Advanced BASH: scripting!
-Go to this website: [https://linuxjourney.com/](https://linuxjourney.com/).
+Go to this website: [https://www.shellscript.sh](https://www.shellscript.sh).
 
 GO through the entire tutorial, repeating all examples on your computer. 
 *Do not* do exercises at the end of the tutorial (it's up to you, but they are useless for our goals) (https://www.shellscript.sh/exercises.html) - they are not useful for our purpuses. 
