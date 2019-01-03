@@ -45,7 +45,7 @@ Only after completing the final assignment you are allowed to be on the lab serv
 For the final assignment, you will be given a real working shell script. Your goal is to figure out what this script is doing. In order to pass, you will need to comment on EACH LINE of the script explaining what it does. 
 
 **The current version of the final assignment is here:**
-[test_bash.sh](https://github.com/avershinina/avershinina.github.io/test_bash.sh).
+[test_bash.sh](https://raw.githubusercontent.com/avershinina/avershinina.github.io/master/test_bash.sh).
 
 Please comment *each line*, explaining what is going on. Make your comments as detailed as possible. 
 Send me this same script with your comments as **.sh** file.
