@@ -14,15 +14,14 @@ redirect_from:
 
 Upcoming events
 ------
-* some time in November 2018 - [WiSE Naturalist Group walk](http://wiseucsc.wixsite.com/wise/wise-naturalists)
+
 * 23-27 June 2019, Riverside CA [North American Paleontological Convention](https://napc2019.ucr.edu/) - invited talk
-* 14-15 Jan 2019, Minneapolis, MN [Neotoma All Hands Meeting](https://www.neotomadb.org/) - invited talk
+
 
 Recently published
 ------
-* *in press* Kalbfleisch, Rice, et al., 2018 EquCab3, an Updated Reference Genome for the Domestic Horse - [pdf](https://www.biorxiv.org/content/biorxiv/early/2018/04/25/306928.full.pdf)
+* Kalbfleisch, Rice, et al., 2018 Improved reference genome for the domestic horse increases assembly contiguity and composition - [link](https://www.nature.com/articles/s42003-018-0199-z)
 
-* Maschenko et al., 2017. The Zhenya Mammoth (Mammuthus primigenius (Blum.)): Taphonomy, geology, age, morphology and ancient DNA of a 48,000 year old frozen mummy from western Taimyr, Russia - [pdf](https://www.sciencedirect.com/sdfe/pdf/download/read/noindex/pii/S1040618216302105/1-s2.0-S1040618216302105-main.pdf)
 
 Useful links
 ------

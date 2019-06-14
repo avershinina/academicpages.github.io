@@ -74,4 +74,4 @@ Service
 * STEM poster presentations for the Workshops for Engineering and Science Transfers
 * Lecture on paleogenetics for the Beringia Interpretive Center, Whitehorse, Canada (together with Sabrina Shirazi)
 * Lecture on ancient DNA for interns at the Holzman archaeological site (Summer 2018), Shaw creek, Alaska
-* WiSE Naturalist walks *in progress*
+* [Neotoma All Hands Meeting](https://www.neotomadb.org/) - invited talk about ancient DNA (14-15 Jan 2019, Minneapolis, MN)
