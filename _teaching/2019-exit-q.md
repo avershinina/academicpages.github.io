@@ -11,7 +11,7 @@ location: "Santa Cruz, California"
 
 Were you my mentee??? Your feedback is very important for me. I would be grateful if you could answer the following questions. Answering them is up to you, feel free to leave any questions (or all of them) unanswered.  Your answers may vary depending on whether you were an undergraduate or graduate student, so mark with NA points that are not applicable to your experience. 
 
-**Questions **
+**Questions**
 
 Mark your position during the mentorship:   [ ]    undergrad      [ ]       grad.       
 
