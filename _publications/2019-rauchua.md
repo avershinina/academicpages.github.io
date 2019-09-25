@@ -2,7 +2,7 @@
 title: "Ancient DNA Analysis of a Holocene Bison from the Rauchua River, Northwestern Chukotka, and the Existence of a Deeply Divergent Mitochondrial Clade"
 collection: publications
 permalink: /publication/2019-rauchua
-excerpt: 'Review'
+excerpt: 'side project'
 date: 2019-09-01
 venue: 'Zoologicheskiĭ zhurnal'
 paperurl: 'https://www.researchgate.net/publication/335696451_Ancient_DNA_Analysis_of_a_Holocene_Bison_from_the_Rauchua_River_Northwestern_Chukotka_and_the_Existence_of_a_Deeply_Divergent_Mitochondrial_Clade'
