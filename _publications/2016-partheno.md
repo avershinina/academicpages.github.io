@@ -1,7 +1,7 @@
 ---
 title: "Parthenogenesis in Hexapoda: Entognatha and non‐holometabolous insects"
 collection: publications
-permalink: /publication/2016-05-24-partheno
+permalink: /publication/2016-partheno
 excerpt: 'Review'
 date: 2016-07-24
 venue: 'Journal of Zoological Systematics and Evolutionary Research'
