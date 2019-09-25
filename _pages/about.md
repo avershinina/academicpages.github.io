@@ -15,12 +15,12 @@ redirect_from:
 Upcoming events
 ------
 
-* 23-27 June 2019, Riverside CA [North American Paleontological Convention](https://napc2019.ucr.edu/) - invited talk
+* PhD thesis defence - Summer 2020!
 
 
 Recently published
 ------
-* Kalbfleisch, Rice, et al., 2018 Improved reference genome for the domestic horse increases assembly contiguity and composition - [link](https://www.nature.com/articles/s42003-018-0199-z)
+* Vershinina et al. (2019) Ancient DNA Analysis of a Holocene Bison from the Rauchua River, Northwestern Chukotka, and the Existence of a Deeply Divergent Mitochondrial Clade. [pdf](https://www.researchgate.net/publication/335696451_Ancient_DNA_Analysis_of_a_Holocene_Bison_from_the_Rauchua_River_Northwestern_Chukotka_and_the_Existence_of_a_Deeply_Divergent_Mitochondrial_Clade)
 
 
 Useful links
