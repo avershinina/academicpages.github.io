@@ -1,7 +1,7 @@
 ---
 title: "Bash yourself!"
 collection: teaching
-type: "Ugrad intro into programming"
+type: "Assignment"
 permalink: /teaching/2018-bash-yourself
 venue: "UCSC EEB"
 date: 2018-12-05
