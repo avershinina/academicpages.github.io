@@ -29,14 +29,14 @@ Useful links
 - Collection of popgen methods and tools [http://methodspopgen.com/](http://methodspopgen.com/)
 - This will change your life: [How to Customize (and Colorize) Your Bash Prompt](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/)
 
-#Metadata
-#------
-#[Map of places I've given a talk](https://avershinina.github.io/talkmap.html) *under construction*
+Metadata
+------
+[Map of places I've given a talk](https://avershinina.github.io/talkmap.html) *under construction*
 
 Misc.
 ------
 - [books](https://www.goodreads.com/bio_alice).
 - [hikes](https://www.komoot.com/user/575873982494).
 - [music](https://open.spotify.com/user/0708kp2e1h99dw3zb1vceqivh).
-#- [art](tbd). 
+- [art](tbd). 
 
