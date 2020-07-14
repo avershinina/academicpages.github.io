@@ -1,7 +1,9 @@
 ---
 title: "Exit questions for mentees"
 collection: teaching
+type: "Mentoring students"
 permalink: /teaching/2019-exit-q
+venue: "UCSC EEB"
 date: 2019-09-25
 location: "Santa Cruz, California"
 ---
