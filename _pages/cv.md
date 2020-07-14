@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="https://github.com/avershinina/avershinina.github.io/blob/master/VershininaAlisa_CV.pdf" width="800" height="6000"></iframe>
+<iframe src="https://github.com/avershinina/avershinina.github.io/raw/master/VershininaAlisa_CV.pdf" width="800" height="6000"></iframe>
