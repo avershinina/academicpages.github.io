@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="files/VershininaAlisa_CV.pdf" width="800" height="6000"></iframe>
+<iframe src="/files/VershininaAlisa_CV.pdf" width="800" height="6000"></iframe>
