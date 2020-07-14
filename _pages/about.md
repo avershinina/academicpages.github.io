@@ -15,12 +15,12 @@ redirect_from:
 Upcoming events
 ------
 
-* PhD thesis defence - Summer 2020!
+* Starting a postdoc position at Paleogenomics Lab, continuing my research with Ice Age Equids - Summer\Fall 2020.
 
 
 Recently published
 ------
-* Vershinina et al. (2019) Ancient DNA Analysis of a Holocene Bison from the Rauchua River, Northwestern Chukotka, and the Existence of a Deeply Divergent Mitochondrial Clade. [pdf](https://www.researchgate.net/publication/335696451_Ancient_DNA_Analysis_of_a_Holocene_Bison_from_the_Rauchua_River_Northwestern_Chukotka_and_the_Existence_of_a_Deeply_Divergent_Mitochondrial_Clade)
+* Vershinina et al. (2020) The case of an arctic wild ass highlights the utility of ancient DNA for validating problematic identifications in museum collections. [pdf](https://www.researchgate.net/publication/338135642_The_case_of_an_arctic_wild_ass_highlights_the_utility_of_ancient_DNA_for_validating_problematic_identifications_in_museum_collections)
 
 
 Useful links
@@ -29,14 +29,14 @@ Useful links
 - Collection of popgen methods and tools [http://methodspopgen.com/](http://methodspopgen.com/)
 - This will change your life: [How to Customize (and Colorize) Your Bash Prompt](https://www.howtogeek.com/307701/how-to-customize-and-colorize-your-bash-prompt/)
 
-Metadata
-------
-[Map of places I've given a talk](https://avershinina.github.io/talkmap.html) *under construction*
+#Metadata
+#------
+#[Map of places I've given a talk](https://avershinina.github.io/talkmap.html) *under construction*
 
 Misc.
 ------
 - [books](https://www.goodreads.com/bio_alice).
 - [hikes](https://www.komoot.com/user/575873982494).
-- [music](https://bandcamp.com/avershinina/).
-- [art](tbd). 
+- [music](https://open.spotify.com/user/0708kp2e1h99dw3zb1vceqivh).
+#- [art](tbd). 
 
