@@ -31,9 +31,9 @@ My recent talk for the Beringia Centre https://www.beringia.com/
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyukonberingia%2Fvideos%2F2644359772477849%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 
-Metadata
+Map of places I've visited to give a talk 
 ------
-[Map of places I've given a talk](https://avershinina.github.io/talkmap.html) *under construction*
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YxOvdn0u_IRFsiOH3sS1jYbqrxzlFGAP" width="640" height="480"></iframe>
 
 Misc.
 ------
