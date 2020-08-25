@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "News"
-excerpt: "and updates"
+title: "Ancient DNA | Paleogenomics| Pleistocene | All things horses "
+excerpt: ""
 header:
   overlay_image: ../images/bones.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
@@ -12,10 +12,10 @@ redirect_from:
   - /about.html
 ---
 
-Upcoming events
+Research interests
 ------
 
-* Starting a postdoc position at Paleogenomics Lab, continuing my research on Ice Age Equids - Summer\Fall 2020.
+Arctic species are experiencing rapid and radical fluctuations in the environment, primarily driven by climate. Many questions remain about how climate fluctuations are affecting and will continue to affect arctic biota. Will habitat change increase rates of local extinction and endanger arctic biodiversity? How important is connectivity between populations in maintaining genetic diversity and mitigating extinction risk? I test these questions using  a whole-genome ancient DNA isolated from >250 fossil horses sampled from across the Northern Hemisphere to assess changing connectivity between horse populations throughout the last ice age. My goal is to identify how horse population size and connectivity changed through time, whether climate change drove population isolation during the last ice age, and to what extent population decline correlate with human impact and/or climate change. Anticipated results will help to understand the genomic consequence of population decline and to predict evolutionary responses to future environmental changes.
 
 
 Recently published
