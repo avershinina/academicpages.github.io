@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: "Ancient DNA - Paleogenomics - Pleistocene - All things horses "
+title: "Ancient DNA - Paleogenomics - Pleistocene"
+excerpt: " All things horses "
 header:
   overlay_image: ../images/bones.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
