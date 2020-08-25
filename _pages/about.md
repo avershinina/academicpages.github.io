@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ancient DNA | Paleogenomics| Pleistocene | All things horses "
+title: "Ancient DNA * Paleogenomics * Pleistocene * All things horses "
 excerpt: ""
 header:
   overlay_image: ../images/bones.jpg
