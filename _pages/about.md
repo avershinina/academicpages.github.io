@@ -12,7 +12,7 @@ redirect_from:
   - /about.html
 ---
 
-Research interests
+Research
 ------
 
 Arctic species experience rapid and radical changes of the environment, primarily driven by climate. Many questions remain about how environemntal fluctuations are affecting and will continue to affect arctic biota. Will habitat change increase rates of local extinction and endanger arctic biodiversity? How important is connectivity between populations in maintaining genetic diversity and mitigating extinction risk? I test these questions using whole-genome ancient DNA data sequenced from >250 fossil horses sampled across the Northern Hemisphere. The main goal of my project is assessing changing connectivity between horse populations throughout the last ice age. I use paleogenomics to identify how horse population size and structure changed through time, whether climate change drove population isolation during the last Ice Age, and to what extent population decline correlate with human impact and/or climate change. Results of my research help to understand the genomic consequence of population decline and the response of large-bodied mammals to global environmental changes.
@@ -28,7 +28,20 @@ Interested in horses? Hit me up *avershin [-at-] ucsc.edu*
 
 Recent talk for the Beringia Centre https://www.beringia.com/
 ------
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyukonberingia%2Fvideos%2F2644359772477849%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
+
+  <!-- Your embedded video player code -->
+  <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
+    <div class="fb-xfbml-parse-ignore">
+      <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
+        <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
+        <p>How to share with just friends.</p>
+        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
+      </blockquote>
+    </div>
+  </div>
 
 
 Places I've visited to give a talk 
