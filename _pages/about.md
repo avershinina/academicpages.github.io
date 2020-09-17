@@ -27,13 +27,17 @@ Let's connect
 Interested in horses? Hit me up *avershin [-at-] ucsc.edu*
 
 
-September 2020 - talk for the The California Academy of Sciences Genomic Social Hour https://www.calacademy.org/
+September 2020 - California Academy of Sciences Genomic Social Hour
 ------
+https://www.calacademy.org/
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B01XSrKcr9I?start=1335" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-June 2020 - talk for the Beringia Centre https://www.beringia.com/
+June 2020 - talk for the Beringia Centre 
 ------
+https://www.beringia.com/
+
 <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyukonberingia%2Fvideos%2F2644359772477849%2F&show_text=1&width=560" width="560" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
 
 
