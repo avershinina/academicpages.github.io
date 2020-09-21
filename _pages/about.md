@@ -50,7 +50,6 @@ Places I've visited to give a talk
 Misc.
 ------
 - [books](https://www.goodreads.com/bio_alice).
-- [hikes](https://www.komoot.com/user/575873982494).
 - [music](https://open.spotify.com/user/0708kp2e1h99dw3zb1vceqivh).
 - [art](https://www.instagram.com/art____alice/). 
 
