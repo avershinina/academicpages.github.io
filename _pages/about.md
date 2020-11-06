@@ -17,6 +17,8 @@ Research
 
 Arctic species experience rapid and radical changes of the environment, primarily driven by climate. Many questions remain about how environemntal fluctuations are affecting and will continue to affect arctic biota. Will habitat change increase rates of local extinction and endanger arctic biodiversity? How important is connectivity between populations in maintaining genetic diversity and mitigating extinction risk? I test these questions using whole-genome ancient DNA data sequenced from >250 fossil horses sampled across the Northern Hemisphere. The main goal of my project is assessing changing connectivity between horse populations throughout the last ice age. I use paleogenomics to identify how horse population size and structure changed through time, whether climate change drove population isolation during the last Ice Age, and to what extent population decline correlate with human impact and/or climate change. Results of my research help to understand the genomic consequence of population decline and the response of large-bodied mammals to global environmental changes.
 
+**Read more about the ongoing project here: https://pgl.soe.ucsc.edu/horses.html**
+
 
 Recently published
 ------
@@ -46,10 +48,4 @@ Places I've visited to give a talk
 ------
 (now because of Corona this is not so exciting, huh)
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YxOvdn0u_IRFsiOH3sS1jYbqrxzlFGAP" width="640" height="480"></iframe>
-
-Misc.
-------
-- [books](https://www.goodreads.com/bio_alice).
-- [music](https://open.spotify.com/user/0708kp2e1h99dw3zb1vceqivh).
-- [art](https://www.instagram.com/art____alice/). 
 
