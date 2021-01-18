@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Alisa Vershinina, PhD"
-excerpt: "scientist (mostly) "|" artist (sometimes) "|" 'omics person "
+excerpt: "scientist (mostly) ||| artist (sometimes) ||| 'omics person"
 header:
   overlay_image: ../images/g12.png
   overlay_filter: 0.9 # same as adding an opacity of 0.5 to a black background
