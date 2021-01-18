@@ -4,7 +4,7 @@ title: "Genomics - Bioinformatics - Pleistocene animals"
 excerpt: ""
 header:
   overlay_image: ../images/g12.png
-  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
   caption: "Regular DNA alignment, nothing exciting"
 author_profile: true
 redirect_from: 
