@@ -24,28 +24,16 @@ Recently published
 ------
 * Vershinina et al. (2020) The case of an arctic wild ass highlights the utility of ancient DNA for validating problematic identifications in museum collections. [pdf](https://www.researchgate.net/publication/338135642_The_case_of_an_arctic_wild_ass_highlights_the_utility_of_ancient_DNA_for_validating_problematic_identifications_in_museum_collections)
 
-Let's connect
-------
-Interested in horses? Hit me up *avershin [-at-] ucsc.edu*
 
-
-September 2020 - California Academy of Sciences Genomic Social Hour
+Recent talk: September 2020 for the California Academy of Sciences Genomic Social Hour
 ------
 https://www.calacademy.org/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B01XSrKcr9I?start=1335" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-June 2020 - talk for the Beringia Centre 
+
+Let's connect
 ------
-https://www.beringia.com/
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyukonberingia%2Fvideos%2F2644359772477849%2F&show_text=1&width=560" width="560" height="411" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
-
-
-
-Places I've visited to give a talk 
-------
-(now because of Corona this is not so exciting, huh)
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1YxOvdn0u_IRFsiOH3sS1jYbqrxzlFGAP" width="640" height="480"></iframe>
-
+Interested in anything related to my research? Hit me up *avershin [-at-] ucsc.edu*
