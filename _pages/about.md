@@ -3,7 +3,7 @@ permalink: /
 title: "Alisa Vershinina, PhD"
 excerpt: "Scientist (mostly) - Artist (sometimes) - 'omics person"
 header:
-  overlay_image: ../images/g122.png
+  overlay_image: ../images/g1222.png
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
   caption: "Regular DNA alignment, nothing exciting"
 author_profile: true
