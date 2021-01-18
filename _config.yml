@@ -7,7 +7,7 @@ locale                   : "en-US"
 title                    : "Alisa Vershinina, PhD"
 title_separator          : "-"
 name                     : &name "Alisa Vershinina"
-description              : &description "Personal notes on science and life"
+description              : &description "Hi there!"
 url                      : https://avershinina.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avershinina/avershinina.github.io"
@@ -79,12 +79,12 @@ analytics:
 # Site Author
 author:
   name             : "Alisa Vershinina"
-  avatar           : "profile.png"
+  avatar           : "me.png"
   bio              : "I am a postdoctoral researcher at UC Santa Cruz Paleogenomics Lab where I study Beringia and extinct mammals of the Ice Age. I like cooking and ggplot2. #FirstGen."
   location         : "Santa Cruz, California"
   employer         : "UCSC Eco Evo Bio"
   googlescholar    : "https://scholar.google.com/citations?user=a_SZv64AAAAJ&hl=en"
-  email            : "vershininaalissa@gmail.com"
+  email            : "avershin@ucsc.edu"
   uri              : "https://www.eeb.ucsc.edu/about/dept-directory.php?uid=avershin"
   bitbucket        :
   codepen          :
@@ -95,7 +95,7 @@ author:
   github           : "avershinina"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : les_halles_photography
   lastfm           :
   linkedin         : "alisavershinina"
   orcid            : "http://orcid.org/0000-0002-3120-6592"

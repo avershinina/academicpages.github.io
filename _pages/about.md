@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: "Ancient DNA - Paleogenomics - Pleistocene"
-excerpt: " All things horses "
+title: "Genomics - Bioinformatics - Pleistocene animals"
+excerpt: ""
 header:
-  overlay_image: ../images/bones.jpg
+  overlay_image: ../images/g12.png
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-  caption: "Pleistocene bones in Klondike"
+  caption: "Regular DNA alignment, nothing exciting"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Research
+Current research
 ------
 
 Arctic species experience rapid and radical changes of the environment, primarily driven by climate. Many questions remain about how environemntal fluctuations are affecting and will continue to affect arctic biota. Will habitat change increase rates of local extinction and endanger arctic biodiversity? How important is connectivity between populations in maintaining genetic diversity and mitigating extinction risk? I test these questions using whole-genome ancient DNA data sequenced from >250 fossil horses sampled across the Northern Hemisphere. The main goal of my project is assessing changing connectivity between horse populations throughout the last ice age. I use paleogenomics to identify how horse population size and structure changed through time, whether climate change drove population isolation during the last Ice Age, and to what extent population decline correlate with human impact and/or climate change. Results of my research help to understand the genomic consequence of population decline and the response of large-bodied mammals to global environmental changes.
