@@ -4,7 +4,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alisa Vershinina, PhD"
+title                    : "Main"
 title_separator          : "-"
 name                     : &name "Alisa Vershinina"
 description              : &description "Hi there!"
