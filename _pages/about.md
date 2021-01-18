@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Genomics - Bioinformatics - Pleistocene animals"
-excerpt: ""
+title: "Alisa Vershinina, PhD"
+excerpt: "scientist (mostly) | artist (sometimes) | 'omics person "
 header:
   overlay_image: ../images/g12.png
-  overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.9 # same as adding an opacity of 0.5 to a black background
   caption: "Regular DNA alignment, nothing exciting"
 author_profile: true
 redirect_from: 
