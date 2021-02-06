@@ -6,8 +6,8 @@
 locale                   : "en-US"
 title                    : "Main"
 title_separator          : "-"
-name                     : &name "Alisa Vershinina"
-description              : &description ""
+name                     : &name "Alisa Vershinina, PhD"
+description              : &description "Hi there!"
 url                      : https://avershinina.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avershinina/avershinina.github.io"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alisa Vershinina,PhD"
+  name             : "Alisa Vershinina, PhD"
   avatar           : "me.jpg"
   bio              : "Scientist (mostly) | artist (sometimes) | 'omics person"
   location         : "Santa Cruz, California"
