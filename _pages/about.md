@@ -6,9 +6,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!
+
 ------
 
+Hi there! 
 I am a postdoctoral researcher at UC Santa Cruz Paleogenomics Lab where I study fascinating animals of the Ice Age. I like cooking and ggplot2. I spend my free time hating D3.js and shooting film on my old Minolta. #FirstGen.
 
 Current research 
