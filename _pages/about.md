@@ -1,22 +1,24 @@
 ---
 permalink: /
-title: "Alisa Vershinina, PhD"
-excerpt: "Scientist (mostly) - Artist (sometimes) - 'omics person"
-header:
-  overlay_image: ../images/g1222.png
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Current research
+Hi there!
+------
+
+I am a postdoctoral researcher at UC Santa Cruz Paleogenomics Lab where I study fascinating animals of the Ice Age. I like cooking and ggplot2. I spend my free time hating D3.js and shooting film on my old Minolta. #FirstGen.
+
+Current research 
 ------
 
 Arctic species experience rapid and radical changes of the environment, primarily driven by climate. Many questions remain about how environemntal fluctuations are affecting and will continue to affect arctic biota. Will habitat change increase rates of local extinction and endanger arctic biodiversity? How important is connectivity between populations in maintaining genetic diversity and mitigating extinction risk? I test these questions using whole-genome ancient DNA data sequenced from >250 fossil horses sampled across the Northern Hemisphere. The main goal of my project is assessing changing connectivity between horse populations throughout the last ice age. I use paleogenomics to identify how horse population size and structure changed through time, whether climate change drove population isolation during the last Ice Age, and to what extent population decline correlate with human impact and/or climate change. Results of my research help to understand the genomic consequence of population decline and the response of large-bodied mammals to global environmental changes.
 
 **Read more about the ongoing project** [here](https://pgl.soe.ucsc.edu/horses.html).
+
+Interested in anything related to my research? Hit me up *avershin [-at-] ucsc.edu*.
 
 
 Recently published
@@ -35,4 +37,4 @@ https://www.calacademy.org/
 Let's connect
 ------
 
-Interested in anything related to my research? Hit me up *avershin [-at-] ucsc.edu*
+I am happy to provide a safe space for young researchers and students. If you are applying\thinking of applying to a STEM grad school and need some help or advise from a fellow ex-student - feel free to contact me. I also offer mentoring and support to current graduate students in genomics\genetics. Both are absolutely free of charge and no strings attached. If you are inteersted in any of these, or looking for an informational interview - feel free to contact me through email avershin [-at-] ucsc.edu or DM me on any social media.  
