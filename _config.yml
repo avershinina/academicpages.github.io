@@ -7,7 +7,7 @@ locale                   : "en-US"
 title                    : "Main"
 title_separator          : "-"
 name                     : &name "Alisa Vershinina"
-description              : &description "Hi there!"
+description              : &description ""
 url                      : https://avershinina.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avershinina/avershinina.github.io"
