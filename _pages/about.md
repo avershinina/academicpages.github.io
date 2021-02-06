@@ -8,8 +8,7 @@ redirect_from:
 
 
 
-Hi there!
-----
+# Hi there!
 
 I am a postdoctoral researcher at UC Santa Cruz [Paleogenomics Lab](https://pgl.soe.ucsc.edu/) where I study fascinating [animals](https://www.facebook.com/watch/live/?v=2644359772477849&ref=watch_permalink) of the Ice Age. I like cooking and ggplot2. I spend my free time hating D3.js and shooting film on my old [Minolta](https://www.instagram.com/les_halles_photography/). #FirstGen.
 
